@@ -11,7 +11,6 @@ ba2_project/
 │   └── processed/
 ├── results/
 │   ├── figures/
-│   └── tables/
 ├──cis_ms_coversion.ipynb 
 ├──requirements.txt
 ├──.gitignore
