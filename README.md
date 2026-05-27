@@ -15,9 +15,9 @@ ba2_project/
 ├── results/
 │   ├── figures/
 │   └── tables/
-├──cis_ms_conversion.ipynb 
-├──requirements.txt
-├──.gitignore
+├── cis_ms_conversion.ipynb 
+├── requirements.txt
+├── .gitignore
 └── README.md
 ```
 
@@ -28,7 +28,7 @@ Follow these steps to set up and run the project locally.
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/valloho/ba2_project.git
 cd <your-project-folder>
 ```
 
@@ -60,7 +60,7 @@ results/tables/
 Download the dataset from Mendeley Data https://data.mendeley.com/datasets/8wk5hjx7x2/1 and place the Excel file in:
 
 ```text
-data/raw/
+data/raw/dataset.xlsx
 ```
 
 ### 6. Run the notebook
