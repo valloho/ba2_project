@@ -29,7 +29,7 @@ Follow these steps to set up and run the project locally.
 
 ```bash
 git clone https://github.com/valloho/ba2_project.git
-cd <your-project-folder>
+cd ba2_project
 ```
 
 ### 2. Create virtual environment
